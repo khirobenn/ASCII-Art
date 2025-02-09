@@ -4,7 +4,7 @@ Python script to create from an image another image written in ASCII characters.
 # How to use the script
 1. You download the script named `image.py` and `courier.ttf`.
 2. You add execute permission to the file ( in Linux : `chmod +x ./image.py`)
-3. You should install the [Python Image Library (PIL)](https://pillow.readthedocs.io/en/stable/installation.html).
+3. You should install the [Python Imaging Library (PIL)](https://pillow.readthedocs.io/en/stable/installation.html).
 4. Execute the script with your images as arguments. ( Example in Linux : `python3 ./image.py my_image1.png my_image2.jpg` )
 5. You will find `my_image1_ASCII.png` and `my_image2_ASCII.jpeg` created in the folder where you downloaded the script.
 
